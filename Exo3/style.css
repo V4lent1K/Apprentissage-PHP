@@ -79,3 +79,19 @@ h1 {
     color : #1490D7;
 
 }
+
+div {
+    float: left;
+}
+
+.gauche {
+
+    float:left;
+
+}
+
+.clearB {
+
+    clear: both;
+
+}
